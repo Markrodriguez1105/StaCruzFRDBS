@@ -1,0 +1,18 @@
+1. Install WampServer or XampServer
+
+2. File the www folder move the folder inside to the c:/wampserver/www or 
+c:/xampserver/htdoc
+
+3. you will see a sql file which is the database needed.
+
+4. import it to your server.
+
+5. open the project stacruzFRDBS on vs code
+
+6. open integrated terminal. make sure that the terminal is running on the project folder
+
+7. type npm install vuetify
+
+8. type npm install axios
+
+9. type npm run dev and press o and enter.
